@@ -1,0 +1,56 @@
+.reveal {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 32px;
+}
+
+/* Slide titles */
+.reveal h1,
+.reveal h2,
+.reveal h3 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 600;
+}
+
+.reveal h2 {
+  font-size: 48px;
+  margin-bottom: 0.6em;
+}
+
+/* Section headings within slides */
+.reveal h3 {
+  font-size: 36px;
+  margin-bottom: 0.35em;
+}
+
+/* Main bullet text */
+.reveal li {
+  font-size: 30px;
+  line-height: 1.3;
+  margin-bottom: 0.25em;
+}
+
+/* Paragraph text */
+.reveal p {
+  line-height: 1.3;
+}
+
+/* Nested bullets */
+.reveal li li {
+  font-size: 27px;
+}
+
+/* Code/package names */
+.reveal code {
+  font-size: 0.9em;
+}
+
+/* Optional classes */
+.reveal .small-text,
+.reveal .small-text li {
+  font-size: 24px;
+}
+
+.reveal .large-text,
+.reveal .large-text li {
+  font-size: 36px;
+}

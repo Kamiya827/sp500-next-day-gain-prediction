@@ -1,0 +1,169 @@
+---
+title: "Predicting Next-Day S&P 500 Stock Gains Using Historical Market Data"
+author: "Logan | Ariel"
+format:
+  revealjs:
+    slide-number: true
+    transition: slide
+    center: false
+    css: styles.css
+---
+
+## Project Overview
+
+- Predict whether an S&P 500 stock will gain **≥1% the next trading day**
+- Use historical market data to investigate short-term price movements
+- Focus on three main predictors:
+  - **Returns**
+  - **Relative volume**
+  - **Volatility**
+- **Research Question:** Can these historical features help predict a ≥1% next-day gain?
+- Binary outcome:
+  - **1:** Gain ≥1%
+  - **0:** Gain <1%
+
+---
+
+## Motivations
+
+- Both of us are interested in pursuing **careers in finance**
+- Explore how **data science and predictive modeling** can be applied to financial markets
+- Gain experience working with **real-world market data**
+- Connect concepts from this course with our **future career interests**
+
+---
+
+## Data
+
+::: columns
+
+::: {.column width="55%"}
+
+### Sources & Variables
+
+- **Yahoo Finance** historical market data
+- Historical **S&P 500 membership**
+- Open, High, Low, Close
+- Adjusted Close
+- Volume
+
+:::
+
+::: {.column width="45%"}
+
+### Dataset
+
+**~10 Years**  
+of historical market data
+
+**~1.26 Million**  
+raw observations
+
+**1 observation**  
+= one stock on one trading day
+
+:::
+
+:::
+
+---
+
+## Data Processing & Features
+
+::: columns
+
+::: {.column width="50%"}
+
+### Cleaning
+
+- Handle missing and duplicate data
+- Standardize dates and ticker symbols
+- Account for stock splits/corporate actions
+- Use historical S&P 500 membership to reduce survivorship bias
+- Prevent future data from leaking into predictors
+
+:::
+
+::: {.column width="50%"}
+
+### Feature Engineering
+
+- **Returns:** Recent percentage price changes
+- **Relative Volume:** Volume compared with typical recent volume
+- **Volatility:** Recent variation in price
+- Create next-day **≥1% target**
+
+:::
+
+:::
+
+---
+
+## Methods & Tools
+
+### Workflow
+
+**Data Collection → Cleaning → Feature Engineering → EDA → Classification → Evaluation**
+
+::: columns
+
+::: {.column width="50%"}
+
+### Python
+
+- `yfinance` — data collection
+- `pandas` — cleaning and processing
+- Feature engineering
+- Target generation
+
+:::
+
+::: {.column width="50%"}
+
+### R
+
+- Exploratory data analysis
+- Visualization
+- Statistical analysis
+- Binary classification
+- Model evaluation
+
+:::
+
+:::
+
+---
+
+## Team Responsibilities
+
+::: columns
+
+::: {.column width="50%"}
+
+### Logan
+
+- Market data acquisition pipeline
+- Data cleaning & integration
+- Feature & target engineering
+- Leakage prevention
+- Binary classification modeling
+- Train/test methodology
+- Model evaluation & interpretation
+
+:::
+
+::: {.column width="50%"}
+
+### Ariel
+
+- Historical S&P 500 membership data
+- Membership cleaning & validation
+- Dataset quality validation
+- Exploratory data analysis
+- Data visualization
+- Evaluation visualizations
+- Statistical interpretation
+
+:::
+
+:::
