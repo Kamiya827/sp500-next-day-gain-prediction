@@ -11,10 +11,23 @@ RAW_DIR = Path("data/raw")
 
 
 def download_ticker(ticker):
+    output_path = RAW_DIR / f"{ticker}.csv"
+    existing = None
+    start_date = START_DATE
+
+    if output_path.exists():
+        existing = pd.read_csv(output_path)
+        if not existing.empty:
+            last_date = pd.to_datetime(existing["date"]).max()
+            start_date = (last_date + pd.Timedelta(days=1)).strftime("%Y-%m-%d")
+
+            if start_date >= END_DATE:
+                print(f"{ticker}: already up to date")
+                return {"ticker": ticker, "status": "up_to_date", "error": ""}
     try:
         df = yf.download(
             ticker,
-            start=START_DATE,
+            start=start_date,
             end=END_DATE,
             auto_adjust=False,
             actions=True,
@@ -53,6 +66,13 @@ def download_ticker(ticker):
 
     RAW_DIR.mkdir(parents=True, exist_ok=True)
     output_path = RAW_DIR / f"{ticker}.csv"
+
+    if existing is not None:
+        df = pd.concat([existing, df], ignore_index=True)
+        df["date"] = pd.to_datetime(df["date"])
+        df = df.drop_duplicates(subset=["date"], keep="last")
+        df = df.sort_values("date")
+    
     df.to_csv(output_path, index=False)
 
     print(f"{ticker}: saved {len(df)} rows to {output_path}")
