@@ -46,4 +46,14 @@ def build_features(df):
         "relative_volume_20"
     ] = float("nan")
 
+    df["volatility_20"] = (
+        df.groupby("ticker")["return_1d"]
+        .transform(lambda x: x.rolling(20, min_periods=20).std(ddof=1))
+    )
+
+    previous_session_20 = df.groupby("ticker")["_session"].shift(20)
+    valid_window = df["_session"] - previous_session_20 == 20
+
+    df.loc[~valid_window, "volatility_20"] = float("nan")
+
     return df.drop(columns="_session")
