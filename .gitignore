@@ -10,3 +10,6 @@ data/external/*.csv
 data/processed/
 outputs/
 !outputs/.gitkeep
+
+# Generated intermediate datasets
+data/interim/*.csv
