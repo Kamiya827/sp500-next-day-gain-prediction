@@ -29,4 +29,21 @@ def build_features(df):
         valid_window = df["_session"] - previous_session == days
         df.loc[~valid_window, f"return_{days}d"] = float("nan")
 
+    previous_volume = df.groupby("ticker")["volume"].shift(1)
+
+    average_volume = (
+        previous_volume.groupby(df["ticker"])
+        .transform(lambda x: x.rolling(20, min_periods=20).mean())
+    )
+
+    df["relative_volume_20"] = df["volume"] / average_volume
+
+    previous_session_20 = df.groupby("ticker")["_session"].shift(20)
+    valid_window = df["_session"] - previous_session_20 == 20
+
+    df.loc[
+        ~valid_window | (average_volume <= 0),
+        "relative_volume_20"
+    ] = float("nan")
+
     return df.drop(columns="_session")
