@@ -1,198 +1,196 @@
 company_name,ticker,date_added,date_ended
-Abbott Laboratories,ABT,1957-03-04,
-Archer Daniels Midland,ADM,1957-03-04,
-American Electric Power,AEP,1957-03-04,
-Boeing,BA,1957-03-04,
-Bristol Myers Squibb,BMY,1957-03-04,
-Caterpillar Inc.,CAT,1957-03-04,
-Colgate-Palmolive,CL,1957-03-04,
-CMS Energy,CMS,1957-03-04,
-ConocoPhillips,COP,1957-03-04,
-CSX Corporation,CSX,1957-03-04,
-CVS Health,CVS,1957-03-04,
-Chevron Corporation,CVX,1957-03-04,
-Deere & Company,DE,1957-03-04,
-DTE Energy,DTE,1957-03-04,
-Consolidated Edison,ED,1957-03-04,
-Edison International,EIX,1957-03-04,
-Eaton Corporation,ETN,1957-03-04,
-Entergy,ETR,1957-03-04,
-Exelon,EXC,1957-03-04,
-Ford Motor Company,F,1957-03-04,
-General Dynamics,GD,1957-03-04,
-GE Aerospace,GE,1957-03-04,
-General Mills,GIS,1957-03-04,
-Halliburton,HAL,1957-03-04,
-Hartford (The),HIG,1957-03-04,
-Honeywell Technologies,HON,1957-03-04,
-Hershey Company (The),HSY,1957-03-04,
-IBM,IBM,1957-03-04,
-International Paper,IP,1957-03-04,
-Kimberly-Clark,KMB,1957-03-04,
-Coca-Cola Company (The),KO,1957-03-04,
-Kroger,KR,1957-03-04,
-Lockheed Martin,LMT,1957-03-04,
-3M,MMM,1957-03-04,
-Altria,MO,1957-03-04,
-Merck & Co.,MRK,1957-03-04,
-Motorola Solutions,MSI,1957-03-04,
-Northrop Grumman,NOC,1957-03-04,
-Norfolk Southern,NSC,1957-03-04,
-Occidental Petroleum,OXY,1957-03-04,
-Public Service Enterprise Group,PEG,1957-03-04,
-PepsiCo,PEP,1957-03-04,
-Pfizer,PFE,1957-03-04,
-Procter & Gamble,PG,1957-03-04,
-PPG Industries,PPG,1957-03-04,
-Schlumberger,SLB,1957-03-04,
-Southern Company,SO,1957-03-04,
-S&P Global,SPGI,1957-03-04,
-Union Pacific Corporation,UNP,1957-03-04,
-Xcel Energy,XEL,1957-03-04,
-ExxonMobil,XOM,1957-03-04,
-Sherwin-Williams,SHW,1964-06-30,
-Cummins,CMI,1965-03-31,
-Emerson Electric,EMR,1965-03-31,
-Clorox,CLX,1969-03-31,
-Newmont,NEM,1969-06-30,
-McDonald's,MCD,1970-06-30,
-Lilly (Eli),LLY,1970-12-31,
-Baxter International,BAX,1972-09-30,
-Becton Dickinson,BDX,1972-09-30,
-Johnson & Johnson,JNJ,1973-06-30,
-Genuine Parts Company,GPC,1973-12-31,
-HP Inc.,HPQ,1974-12-31,
-Williams Companies,WMB,1975-03-31,
-JPMorgan Chase,JPM,1975-06-30,
-International Flavors & Fragrances,IFF,1976-03-31,
-American Express,AXP,1976-06-30,
-Bank of America,BAC,1976-06-30,
-Cigna,CI,1976-06-30,
-Walt Disney Company (The),DIS,1976-06-30,
-Duke Energy,DUK,1976-06-30,
-NextEra Energy,NEE,1976-06-30,
-Wells Fargo,WFC,1976-06-30,
-Intel,INTC,1976-12-31,
-Target Corporation,TGT,1976-12-31,
-Textron,TXT,1978-12-31,
-Weyerhaeuser,WY,1979-10-01,
-American International Group,AIG,1980-03-31,
-FedEx,FDX,1980-12-31,
-Paccar,PCAR,1980-12-31,
-Automatic Data Processing,ADP,1981-03-31,
-W. W. Grainger,GWW,1981-06-30,
-Masco,MAS,1981-06-30,
-Walmart,WMT,1982-08-31,
-Snap-on,SNA,1982-09-30,
-Stanley Black & Decker,SWK,1982-09-30,
-Brown–Forman,BF.B,1982-10-31,
-Apple Inc.,AAPL,1982-11-30,
-AT&T,T,1983-11-30,
-Verizon,VZ,1983-11-30,
-Lowe's,LOW,1984-02-29,
-PulteGroup,PHM,1984-04-30,
-Hasbro,HAS,1984-09-30,
-Air Products,APD,1985-04-30,
-Nucor,NUE,1985-04-30,
-CenterPoint Energy,CNP,1985-07-31,
-TJX Companies,TJX,1985-09-30,
-Dover Corporation,DOV,1985-10-31,
-Parker Hannifin,PH,1985-11-30,
-Illinois Tool Works,ITW,1986-02-28,
-Medtronic,MDT,1986-10-31,
-Sysco,SYY,1986-12-31,
-Avery Dennison,AVY,1987-12-31,
-Home Depot (The),HD,1988-03-31,
-PNC Financial Services,PNC,1988-04-30,
-Citigroup,C,1988-05-31,
-"Nike, Inc.",NKE,1988-11-30,
-Ecolab,ECL,1989-01-31,
-Oracle Corporation,ORCL,1989-08-31,
-Autodesk,ADSK,1989-12-01,
-Ameren,AEE,1991-09-19,
-Amgen,AMGN,1992-01-02,
-Linde plc,LIN,1992-07-01,
-Morgan Stanley,MS,1993-07-29,
-Costco,COST,1993-10-01,
-Cisco,CSCO,1993-12-01,
-KeyCorp,KEY,1994-03-01,
-Microsoft,MSFT,1994-06-01,
-Southwest Airlines,LUV,1994-07-01,
-UnitedHealth Group,UNH,1994-07-01,
-Micron Technology,MU,1994-09-27,
-Boston Scientific,BSX,1995-02-24,
-Corning Inc.,GLW,1995-02-27,
-Applied Materials,AMAT,1995-03-16,
-Darden Restaurants,DRI,1995-05-31,
-Loews Corporation,L,1995-05-31,
-Allstate,ALL,1995-07-13,
+Apple Inc.,AAPL,1996-01-02,
+Abbott Laboratories,ABT,1996-01-02,
+Archer Daniels Midland,ADM,1996-01-02,
+Automatic Data Processing,ADP,1996-01-02,
+Autodesk,ADSK,1996-01-02,
+Ameren,AEE,1996-01-02,
+American Electric Power,AEP,1996-01-02,
 Aetna,AET,1996-01-02,2018-11-29
 Allergan,AGN,1996-01-02,2020-05-12
-Arconic,ARNC,1996-01-02,2020-04-06
+American International Group,AIG,1996-01-02,
+Allstate,ALL,1996-01-02,
+Applied Materials,AMAT,1996-01-02,
+Amgen,AMGN,1996-01-02,
+Air Products,APD,1996-01-02,
+Howmet Aerospace,ARNC,1996-01-02,2020-04-01
+Avery Dennison,AVY,1996-01-02,
+American Express,AXP,1996-01-02,
+Boeing,BA,1996-01-02,
+Bank of America,BAC,1996-01-02,
+Baxter International,BAX,1996-01-02,
 CR Bard,BCR,1996-01-02,2017-12-29
+Becton Dickinson,BDX,1996-01-02,
+Brown–Forman,BF.B,1996-01-02,
 Baker Hughes,BHGE,1996-01-02,2019-10-18
 Bank of New York Mellon,BK,1996-01-02,
 Ball Corporation,BLL,1996-01-02,2022-05-10
+Bristol Myers Squibb,BMY,1996-01-02,
+Boston Scientific,BSX,1996-01-02,
+Citigroup,C,1996-01-02,
 CA Technologies,CA,1996-01-02,2018-11-06
 Conagra Brands,CAG,1996-01-02,
+Caterpillar Inc.,CAT,1996-01-02,
 Chubb Limited,CB,1996-01-02,
 Paramount Skydance,CBS,1996-01-02,2019-12-05
+Cigna,CI,1996-01-02,
+Colgate-Palmolive,CL,1996-01-02,
+Clorox,CLX,1996-01-02,
 Comerica,CMA,1996-01-02,2024-06-24
 Comcast,CMCSA,1996-01-02,
+Cummins,CMI,1996-01-02,
+CenterPoint Energy,CNP,1996-01-02,
+ConocoPhillips,COP,1996-01-02,
+Costco,COST,1996-01-02,
 Campbell's,CPB,1996-01-02,
+Cisco,CSCO,1996-01-02,
+CSX Corporation,CSX,1996-01-02,
+CVS Health,CVS,1996-01-02,
+Chevron Corporation,CVX,1996-01-02,
 Dominion Energy,D,1996-01-02,
 DuPont,DD,1996-01-02,2017-09-01
+Deere & Company,DE,1996-01-02,
+Walt Disney Company (The),DIS,1996-01-02,
+Dover Corporation,DOV,1996-01-02,
 Dow Chemical Company,DOW,1996-01-02,2017-09-01
+Darden Restaurants,DRI,1996-01-02,
+DTE Energy,DTE,1996-01-02,
+Duke Energy,DUK,1996-01-02,
+Ecolab,ECL,1996-01-02,
+Consolidated Edison,ED,1996-01-02,
+Edison International,EIX,1996-01-02,
 Eastman Chemical Co.,EMN,1996-01-02,2025-11-04
+Emerson Electric,EMR,1996-01-02,
+Eaton Corporation,ETN,1996-01-02,
+Entergy,ETR,1996-01-02,
+Exelon,EXC,1996-01-02,
+Ford Motor Company,F,1996-01-02,
 Freeport-McMoRan,FCX,1996-01-02,
+FedEx,FDX,1996-01-02,
 FirstEnergy,FE,1996-01-02,
+General Dynamics,GD,1996-01-02,
+GE Aerospace,GE,1996-01-02,
+General Mills,GIS,1996-01-02,
+Corning Inc.,GLW,1996-01-02,
+Genuine Parts Company,GPC,1996-01-02,
 Gap,GPS,1996-01-02,2022-02-02
 The Goodyear Tire & Rubber Company,GT,1996-01-02,2019-02-27
+W. W. Grainger,GWW,1996-01-02,
+Halliburton,HAL,1996-01-02,
+Hasbro,HAS,1996-01-02,
+Home Depot (The),HD,1996-01-02,
 Hess Corporation,HES,1996-01-02,2025-07-23
+Hartford (The),HIG,1996-01-02,
+Honeywell Technologies,HON,1996-01-02,
+HP Inc.,HPQ,1996-01-02,
 H&R Block,HRB,1996-01-02,2020-09-21
+Hershey Company (The),HSY,1996-01-02,
 Humana,HUM,1996-01-02,
+IBM,IBM,1996-01-02,
+International Flavors & Fragrances,IFF,1996-01-02,
+Intel,INTC,1996-01-02,
+International Paper,IP,1996-01-02,
 Interpublic Group,IPG,1996-01-02,2025-11-28
+Illinois Tool Works,ITW,1996-01-02,
 Johnson Controls,JCI,1996-01-02,
+Johnson & Johnson,JNJ,1996-01-02,
+JPMorgan Chase,JPM,1996-01-02,
 Nordstrom,JWN,1996-01-02,2020-06-22
 Kellanova,K,1996-01-02,2025-12-11
+KeyCorp,KEY,1996-01-02,
+Kimberly-Clark,KMB,1996-01-02,
+Coca-Cola Company (The),KO,1996-01-02,
+Kroger,KR,1996-01-02,
+Loews Corporation,L,1996-01-02,
 "Bath & Body Works, Inc.",LB,1996-01-02,2021-08-03
+Lilly (Eli),LLY,1996-01-02,
+Lockheed Martin,LMT,1996-01-02,
 Lincoln National Corporation,LNC,1996-01-02,2023-09-18
+Lowe's,LOW,1996-01-02,
+Southwest Airlines,LUV,1996-01-02,
 Macy's,M,1996-01-02,2020-04-06
+Masco,MAS,1996-01-02,
 Mattel,MAT,1996-01-02,2019-06-07
+McDonald's,MCD,1996-01-02,
 Moody's Corporation,MCO,1996-01-02,
+Medtronic,MDT,1996-01-02,
 Marsh & McLennan,MMC,1996-01-02,
+3M,MMM,1996-01-02,
+Altria,MO,1996-01-02,
+Merck & Co.,MRK,1996-01-02,
 Marathon Oil,MRO,1996-01-02,2024-11-26
+Morgan Stanley,MS,1996-01-02,
+Microsoft,MSFT,1996-01-02,
+Motorola Solutions,MSI,1996-01-02,
+Micron Technology,MU,1996-01-02,
+NextEra Energy,NEE,1996-01-02,
+Newmont,NEM,1996-01-02,
+"Nike, Inc.",NKE,1996-01-02,
+Northrop Grumman,NOC,1996-01-02,
+Norfolk Southern,NSC,1996-01-02,
+Nucor,NUE,1996-01-02,
 Newell Brands,NWL,1996-01-02,2023-09-18
+Oracle Corporation,ORCL,1996-01-02,
+Occidental Petroleum,OXY,1996-01-02,
 Pitney Bowes,PBI,1996-01-02,2017-03-01
+Paccar,PCAR,1996-01-02,
 Pacific Gas & Electric Company,PCG,1996-01-02,2019-01-18
+Public Service Enterprise Group,PEG,1996-01-02,
+PepsiCo,PEP,1996-01-02,
+Pfizer,PFE,1996-01-02,
+Procter & Gamble,PG,1996-01-02,
+Parker Hannifin,PH,1996-01-02,
+PulteGroup,PHM,1996-01-02,
 Revvity,PKI,1996-01-02,2023-05-16
+PNC Financial Services,PNC,1996-01-02,
+PPG Industries,PPG,1996-01-02,
 PPL Corporation,PPL,1996-01-02,
-Praxair,PX,1996-01-02,2018-10-31
+Linde plc,PX,1996-01-02,2018-10-31
 Ryder System,R,1996-01-02,2017-06-19
 Rockwell Automation,ROK,1996-01-02,
 Raytheon Company,RTN,1996-01-02,2020-04-06
+Sherwin-Williams,SHW,1996-01-02,
+Schlumberger,SLB,1996-01-02,
+Snap-on,SNA,1996-01-02,
+Southern Company,SO,1996-01-02,
+S&P Global,SPGI,1996-01-02,
 SunTrust Banks,STI,1996-01-02,2019-12-09
 St Jude Medical,STJ,1996-01-02,2017-01-05
+Stanley Black & Decker,SWK,1996-01-02,
+Sysco,SYY,1996-01-02,
+AT&T,T,1996-01-02,
 Molson Coors,TAP,1996-01-02,
 Tegna,TGNA,1996-01-02,2017-06-02
+Target Corporation,TGT,1996-01-02,
 Tenet Healthcare,THC,1996-01-02,2016-04-18
+TJX Companies,TJX,1996-01-02,
 Globe Life,TMK,1996-01-02,2019-08-08
 Travelers Companies (The),TRV,1996-01-02,
 Time Warner,TWX,1996-01-02,2018-06-15
 Texas Instruments,TXN,1996-01-02,
+Textron,TXT,1996-01-02,
+UnitedHealth Group,UNH,1996-01-02,
 Unum,UNM,1996-01-02,2021-09-20
+Union Pacific Corporation,UNP,1996-01-02,
 U.S. Bancorp,USB,1996-01-02,
 RTX Corporation,UTX,1996-01-02,2020-04-03
 VF Corporation,VFC,1996-01-02,2024-04-01
+Verizon,VZ,1996-01-02,
 Walgreens Boots Alliance,WBA,1996-01-02,2025-08-28
+Wells Fargo,WFC,1996-01-02,
 Whirlpool Corporation,WHR,1996-01-02,2024-03-18
+Williams Companies,WMB,1996-01-02,
+Walmart,WMT,1996-01-02,
+Weyerhaeuser,WY,1996-01-02,
+Xcel Energy,XEL,1996-01-02,
+ExxonMobil,XOM,1996-01-02,
 Xerox,XRX,1996-01-02,2021-03-22
 Fifth Third Bancorp,FITB,1996-03-08,
 EMC Corporation,EMC,1996-03-28,2016-09-07
 Aon plc,AON,1996-04-23,
 AutoZone,AZO,1997-01-02,
 Thermo Fisher Scientific,TMO,1997-01-02,
-Adobe Inc.,ADBE,1997-05-05,
+Adobe Inc.,ADBE,1997-05-06,
 Cardinal Health,CAH,1997-05-27,
 Charles Schwab Corporation,SCHW,1997-06-02,
 Equifax,EFX,1997-06-19,
@@ -202,7 +200,7 @@ Progressive Corporation,PGR,1997-08-04,
 Huntington Bancshares,HBAN,1997-08-06,
 State Street Corporation,STT,1997-08-18,
 KLA Corporation,KLAC,1997-09-15,
-Yum! Brands,YUM,1997-10-06,
+Yum! Brands,YUM,1997-10-07,
 Truist Financial,BBT,1997-12-04,2019-12-09
 Cincinnati Financial,CINF,1997-12-18,
 Omnicom Group,OMC,1997-12-24,
@@ -223,10 +221,11 @@ Danaher Corporation,DHR,1998-11-18,
 Carnival Corporation,CCL,1998-12-22,
 McKesson,MCK,1999-01-13,
 Lumen Technologies,CTL,1999-03-25,2020-09-18
+CMS Energy,CMS,1999-05-03,
 Aflac,AFL,1999-05-28,
 NetApp,NTAP,1999-06-25,
-Best Buy,BBY,1999-06-29,
-Vulcan Materials Company,VMC,1999-06-30,
+Best Buy,BBY,1999-06-30,
+Vulcan Materials Company,VMC,1999-07-01,
 Qualcomm,QCOM,1999-07-22,
 Bed Bath & Beyond,BBBY,1999-10-01,2017-07-26
 Pinnacle West Capital,PNW,1999-10-04,
@@ -239,15 +238,15 @@ Altaba (formerly Yahoo!),AABA,1999-12-08,2017-06-19
 Harley-Davidson,HOG,2000-01-31,2020-06-22
 Linear Technology,LLTC,2000-04-03,2017-03-13
 Agilent Technologies,A,2000-06-05,
-Starbucks,SBUX,2000-06-07,
+Starbucks,SBUX,2000-06-08,
 Tiffany & Co,TIF,2000-06-21,2021-01-07
 Broadcom Corporation,BRCM,2000-07-03,2016-02-01
 Devon Energy,DVN,2000-08-30,
 EOG Resources,EOG,2000-11-02,
 NiSource,NI,2000-11-02,
 Starwood Hotels and Resorts,HOT,2000-11-17,2016-09-23
-Intuit,INTU,2000-12-05,
 Robert Half,RHI,2000-12-05,2024-06-24
+Intuit,INTU,2000-12-11,
 MetLife,MET,2000-12-11,
 Stryker Corporation,SYK,2000-12-12,
 Fluor Corporation,FLR,2000-12-22,2019-06-03
@@ -275,33 +274,33 @@ Elevance Health,ANTM,2002-07-25,2022-06-28
 Monsanto,MON,2002-08-14,2018-06-07
 Reynolds American,RAI,2002-09-04,2017-07-25
 Quest Diagnostics,DGX,2002-12-12,
-Valero Energy,VLO,2002-12-20,
 AutoNation,AN,2003-02-24,2017-08-08
 Aimco,AIV,2003-03-14,2020-12-21
-McCormick & Company,MKC,2003-03-20,
+McCormick & Company,MKC,2003-03-21,
 Gen Digital,SYMC,2003-03-31,2019-11-05
 Prologis,PLD,2003-07-17,
 Express Scripts,ESRX,2003-09-26,2018-12-21
 Biogen,BIIB,2003-11-13,
-M&T Bank,MTB,2004-02-23,
+M&T Bank,MTB,2004-02-27,
 E-Trade,ETFC,2004-04-01,2020-10-07
 Viatris,MYL,2004-04-23,2020-11-17
+Valero Energy,VLO,2004-04-29,
 Gilead Sciences,GILD,2004-07-01,
 "Tapestry, Inc.",TPR,2004-09-01,
 Labcorp,LH,2004-11-01,
 L3 Technologies,LLL,2004-12-01,2019-07-01
 Fox Corporation (Class A),FOXA,2004-12-20,
 Nov,NOV,2005-03-14,2021-09-20
-D. R. Horton,DHI,2005-06-22,
-Constellation Brands,STZ,2005-07-01,
-Tyson Foods,TSN,2005-08-10,
+D. R. Horton,DHI,2005-07-05,
+Constellation Brands,STZ,2005-07-05,
+Tyson Foods,TSN,2005-08-11,
 Vornado Realty Trust,VNO,2005-08-12,2023-01-04
 Murphy Oil,MUR,2005-08-15,2017-07-26
 Public Storage,PSA,2005-08-19,
 Ameriprise Financial,AMP,2005-10-03,
 Lennar,LEN,2005-10-04,
 Patterson Companies,PDCO,2005-10-11,2018-03-19
-Amazon,AMZN,2005-11-18,
+Amazon,AMZN,2005-11-21,
 Viacom,VIAB,2006-01-03,2019-12-05
 Whole Foods Market,WFM,2006-01-03,2017-08-28
 Estée Lauder Companies (The),EL,2006-01-05,
@@ -341,8 +340,7 @@ Teradata,TDC,2007-10-01,2017-06-19
 Expedia Group,EXPE,2007-10-02,
 Noble Energy,NBL,2007-10-08,2020-10-12
 Expeditors International,EXPD,2007-10-10,
-Jacobs Solutions,J,2007-10-26,
-Jacobs Engineering Group,JEC,2007-10-26,2019-12-10
+Jacobs Solutions,JEC,2007-10-26,2019-12-10
 Pepco Holdings,POM,2007-11-09,2016-03-24
 American Tower,AMT,2007-11-19,
 GameStop,GME,2007-12-14,2016-04-25
@@ -353,7 +351,7 @@ Healthpeak Properties,HCP,2008-03-31,2019-11-05
 Philip Morris International,PM,2008-03-31,
 Intuitive Surgical,ISRG,2008-06-02,
 Southwestern Energy,SWN,2008-06-06,2017-04-04
-Cabot Oil & Gas,COG,2008-06-23,2021-10-04
+Coterra Energy,COG,2008-06-23,2021-10-04
 Scripps Networks Interactive,SNI,2008-07-01,2018-03-07
 Mastercard,MA,2008-07-18,
 DaVita,DVA,2008-07-31,
@@ -361,8 +359,7 @@ Invesco,IVZ,2008-08-21,
 CF Industries,CF,2008-08-27,
 Salesforce,CRM,2008-09-15,
 Fastenal,FAST,2008-09-15,
-Harris Corporation,HRS,2008-09-22,2019-06-01
-L3Harris,LHX,2008-09-22,
+L3Harris,HRS,2008-09-22,2019-07-01
 Pioneer Natural Resources,PXD,2008-09-24,2024-05-08
 Amphenol,APH,2008-09-30,
 Flowserve,FLS,2008-10-02,2021-03-22
@@ -408,8 +405,7 @@ Helmerich & Payne,HP,2010-03-01,2020-05-22
 Oneok,OKE,2010-03-15,
 Cerner,CERN,2010-04-30,2022-06-08
 CarMax,KMX,2010-06-28,2025-10-31
-Ingersoll Rand,IR,2010-11-17,
-Trane Technologies,TT,2010-11-17,
+Trane Technologies,IR,2010-11-17,2020-03-03
 Cablevision Systems,CVC,2010-12-20,2016-06-21
 "F5, Inc.",FFIV,2010-12-20,
 Netflix,NFLX,2010-12-20,
@@ -433,7 +429,7 @@ Phillips 66,PSX,2012-05-01,
 Alexion Pharmaceuticals,ALXN,2012-05-25,2021-07-21
 Kinder Morgan,KMI,2012-05-25,
 Lam Research,LRCX,2012-06-05,
-Monster Beverage,MNST,2012-06-28,
+Monster Beverage,MNST,2012-06-29,
 Seagate Technology,STX,2012-07-02,
 Ensco,ESV,2012-07-31,2016-03-30
 LyondellBasell,LYB,2012-09-05,
@@ -442,25 +438,24 @@ ADT,ADT,2012-10-02,2016-05-02
 Dollar General,DG,2012-12-03,
 Garmin,GRMN,2012-12-12,
 Aptiv,APTV,2012-12-24,
-AbbVie,ABBV,2012-12-31,
+AbbVie,ABBV,2013-01-02,
 PVH,PVH,2013-02-14,2022-09-19
 Regeneron Pharmaceuticals,REGN,2013-05-01,
 Macerich,MAC,2013-05-09,2019-12-23
 Kansas City Southern,KSU,2013-05-24,2021-12-14
-General Motors,GM,2013-06-06,
-Zoetis,ZTS,2013-06-21,
+General Motors,GM,2013-06-07,
+Zoetis,ZTS,2013-06-24,
 News Corp (Class A),NWSA,2013-07-01,
 Nielsen Holdings,NLSN,2013-07-09,2022-10-12
 Delta Air Lines,DAL,2013-09-11,
 Ametek,AME,2013-09-23,
 Vertex Pharmaceuticals,VRTX,2013-09-23,
 Transocean,RIG,2013-10-29,2017-07-26
-Michael Kors,KORS,2013-11-13,2018-09-19
+Capri Holdings,KORS,2013-11-13,2019-01-02
 Allegion,ALLE,2013-12-02,
 GGP Inc.,GGP,2013-12-10,2018-08-28
 Alliance Data Systems,ADS,2013-12-23,2020-06-22
-Facebook,FB,2013-12-23,2022-06-09
-Meta Platforms,META,2013-12-23,
+Meta Platforms,FB,2013-12-23,2022-06-09
 Mohawk Industries,MHK,2013-12-23,2025-12-22
 Tractor Supply,TSCO,2014-01-24,
 Keurig Green Mountain,GMCR,2014-03-24,2016-03-03
@@ -474,16 +469,16 @@ Affiliated Managers Group,AMG,2014-07-01,2019-12-23
 Martin Marietta Materials,MLM,2014-07-02,
 "Discovery, Inc.",DISCK,2014-08-07,2022-04-11
 Mallinckrodt,MNK,2014-08-19,2017-07-26
-Universal Health Services,UHS,2014-09-20,
-United Rentals,URI,2014-09-20,
+Universal Health Services,UHS,2014-09-22,
+United Rentals,URI,2014-09-22,
 Level 3 Communications,LVLT,2014-11-05,2017-10-13
 Royal Caribbean Group,RCL,2014-12-05,
 Endo International,ENDP,2015-01-27,2017-03-02
 HCA Healthcare,HCA,2015-01-27,
 Skyworks Solutions,SWKS,2015-03-12,
-Henry Schein,HSIC,2015-03-17,
-Equinix,EQIX,2015-03-20,
+Henry Schein,HSIC,2015-03-18,
 American Airlines Group,AAL,2015-03-23,2024-09-23
+Equinix,EQIX,2015-03-23,
 Hanesbrands,HBI,2015-03-23,2021-12-20
 SL Green Realty,SLG,2015-03-23,2021-03-22
 Realty Income,O,2015-04-07,
@@ -498,20 +493,17 @@ PayPal,PYPL,2015-07-20,
 Signet Jewelers,SIG,2015-07-29,2018-03-19
 Activision Blizzard,ATVI,2015-08-31,2023-10-18
 United Airlines Holdings,UAL,2015-09-03,
-News Corp (Class B),NWS,2015-09-18,
 Fox Corporation (Class B),FOX,2015-09-21,
+News Corp (Class B),NWS,2015-09-21,
 Verisk Analytics,VRSK,2015-10-08,
 Hewlett Packard Enterprise,HPE,2015-11-02,
 Synchrony Financial,SYF,2015-11-18,
 "Illumina, Inc.",ILMN,2015-11-19,2024-06-24
 CSRA,CSRA,2015-11-30,2018-04-04
 Church & Dwight,CHD,2015-12-29,
-Coca-Cola European Partners,CCEP,2016-01-04,2016-05-31
-Capri Holdings,CPRI,2016-01-04,2020-05-12
 Willis Towers Watson,WLTW,2016-01-05,2022-01-10
-Willis Towers Watson,WTW,2022-01-10,
 Extra Space Storage,EXR,2016-01-19,
-Citizens Financial Group,CFG,2016-01-29,
+Citizens Financial Group,CFG,2016-02-01,
 Federal Realty Investment Trust,FRT,2016-02-01,
 Concho Resources,CXO,2016-02-22,2021-01-21
 American Water Works,AWK,2016-03-04,
@@ -530,13 +522,12 @@ Arthur J. Gallagher & Co.,AJG,2016-05-31,
 TransDigm Group,TDG,2016-06-03,
 Fortune Brands Home & Security,FBHS,2016-06-24,2022-12-19
 Albemarle Corporation,ALB,2016-07-01,
-Fortive,FTV,2016-07-01,
 Alliant Energy,LNT,2016-07-01,
+Fortive,FTV,2016-07-05,
 Mettler Toledo,MTD,2016-09-06,
 Charter Communications,CHTR,2016-09-08,
 Cooper Companies (The),COO,2016-09-23,
 Coty,COTY,2016-10-03,2020-09-21
-Howmet Aerospace,HWM,2016-10-21,
 Envision Healthcare,EVHC,2016-12-02,2018-10-11
 Mid-America Apartment Communities,MAA,2016-12-02,
 Idexx Laboratories,IDXX,2017-01-05,
@@ -553,9 +544,8 @@ Gartner,IT,2017-04-05,
 IHS Markit,INFO,2017-06-02,2022-03-02
 Align Technology,ALGN,2017-06-19,
 Ansys,ANSS,2017-06-19,2025-07-18
-Everest Group,EG,2017-06-19,
 Hilton Worldwide,HLT,2017-06-19,
-Everest Re,RE,2017-06-19,2023-07-10
+Everest Group,RE,2017-06-19,2023-07-10
 A. O. Smith,AOS,2017-07-26,
 Duke Realty,DRE,2017-07-26,2022-10-03
 MGM Resorts,MGM,2017-07-26,
@@ -578,27 +568,29 @@ Evergy,EVRG,2018-06-05,
 Twitter,TWTR,2018-06-07,2022-11-01
 Broadridge Financial Solutions,BR,2018-06-18,
 HollyFrontier,HFC,2018-06-18,2021-06-04
-Corpay,CPAY,2018-06-20,
-FleetCor Technologies,FLT,2018-06-20,2024-03-25
+Corpay,FLT,2018-06-20,2024-03-25
 Copart,CPRT,2018-07-02,
 Arista Networks,ANET,2018-08-28,
 WellCare,WCG,2018-09-17,2020-01-28
 "Rollins, Inc.",ROL,2018-10-01,
 Fortinet,FTNT,2018-10-11,
+Linde plc,LIN,2018-10-31,
 Keysight Technologies,KEYS,2018-11-06,
 Jack Henry & Associates,JKHY,2018-11-13,
 Diamondback Energy,FANG,2018-12-03,
 Lamb Weston,LW,2018-12-03,
 Maxim Integrated,MXIM,2018-12-03,2021-08-30
 Celanese,CE,2018-12-24,2025-03-24
+Capri Holdings,CPRI,2019-01-02,2020-05-12
 First Republic Bank,FRC,2019-01-02,2023-05-04
 Teleflex,TFX,2019-01-18,2025-03-24
 Atmos Energy,ATO,2019-02-15,
 Wabtec,WAB,2019-02-27,
-Dow Inc.,DOW,2019-04-01,
+Dow Inc.,DOW,2019-04-02,
 Corteva,CTVA,2019-06-03,
 DuPont,DD,2019-06-03,
 Amcor,AMCR,2019-06-07,
+L3Harris,LHX,2019-07-01,
 MarketAxess,MKTX,2019-07-01,2025-09-22
 T-Mobile US,TMUS,2019-07-15,
 Globe Life,GL,2019-08-08,
@@ -615,10 +607,14 @@ Paramount Skydance,VIAC,2019-12-05,2022-02-17
 W. R. Berkley Corporation,WRB,2019-12-05,
 Old Dominion,ODFL,2019-12-09,
 Truist Financial,TFC,2019-12-09,
+Jacobs Solutions,J,2019-12-10,
 Live Nation Entertainment,LYV,2019-12-23,
 Steris,STE,2019-12-23,
 Zebra Technologies,ZBRA,2019-12-23,
 Paycom,PAYC,2020-01-28,
+Ingersoll Rand,IR,2020-03-03,
+Trane Technologies,TT,2020-03-03,
+Howmet Aerospace,HWM,2020-04-01,
 Carrier Global,CARR,2020-04-03,
 Otis Worldwide,OTIS,2020-04-03,
 RTX Corporation,RTX,2020-04-03,
@@ -650,13 +646,14 @@ Moderna,MRNA,2021-07-21,
 "Bath & Body Works, Inc.",BBWI,2021-08-03,2024-10-01
 Bio-Techne,TECH,2021-08-30,
 Brown & Brown,BRO,2021-09-20,
-Ceridian,CDAY,2021-09-20,2024-02-01
+Dayforce,CDAY,2021-09-20,2024-02-01
 Match Group,MTCH,2021-09-20,
 Coterra Energy,CTRA,2021-10-04,
 EPAM Systems,EPAM,2021-12-14,
 FactSet,FDS,2021-12-20,
 Signature Bank,SBNY,2021-12-20,2023-03-15
 SolarEdge,SEDG,2021-12-20,2023-12-18
+Willis Towers Watson,WTW,2022-01-10,
 Constellation Energy,CEG,2022-02-02,
 Nordson Corporation,NDSN,2022-02-15,
 Paramount Skydance,PARA,2022-02-17,2025-08-08
@@ -665,6 +662,7 @@ Camden Property Trust,CPT,2022-04-04,
 Warner Bros. Discovery,WBD,2022-04-11,
 Ball Corporation,BALL,2022-05-10,
 Vici Properties,VICI,2022-06-08,
+Meta Platforms,META,2022-06-09,
 Keurig Dr Pepper,KDP,2022-06-21,
 ON Semiconductor,ON,2022-06-21,
 Elevance Health,ELV,2022-06-28,
@@ -685,6 +683,7 @@ Axon Enterprise,AXON,2023-05-04,
 Revvity,RVTY,2023-05-16,
 Fiserv,FI,2023-06-07,2025-11-11
 Palo Alto Networks,PANW,2023-06-20,
+Everest Group,EG,2023-07-10,
 Kenvue,KVUE,2023-08-25,
 Cencora,COR,2023-08-30,
 Airbnb,ABNB,2023-09-18,
@@ -699,6 +698,7 @@ Dayforce,DAY,2024-02-01,
 Healthpeak Properties,DOC,2024-03-04,
 Deckers Brands,DECK,2024-03-18,
 Supermicro,SMCI,2024-03-18,
+Corpay,CPAY,2024-03-25,
 Solventum,SOLV,2024-04-01,
 GE Vernova,GEV,2024-04-02,
 Vistra Corp.,VST,2024-05-08,

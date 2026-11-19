@@ -18,7 +18,7 @@ print("Unique tickers:", df["ticker"].nunique())
 print("Missing start dates:", df["date_added"].isna().sum())
 print("Invalid intervals:", (
     df["date_ended"].notna()
-    & (df["date_ended"] < df["date_added"])
+    & (df["date_ended"] <= df["date_added"])
 ).sum())
 print("Duplicate rows:", df.duplicated().sum())
 
@@ -32,7 +32,7 @@ for date in dates:
         (df["date_added"] <= date)
         & (
             df["date_ended"].isna()
-            | (df["date_ended"] >= date)
+            | (df["date_ended"] > date)
         )
     ]
 
